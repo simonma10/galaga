@@ -1,12 +1,12 @@
 {
   "name": "phaser-webpack",
   "version": "0.0.1",
-  "description": "Basic Phaser CE and Webpack 2.0 boilerplate",
+  "description": "Basic Phaser CE and Webpack boilerplate",
   "author": "Simon Martin",
   "main": "index.js",
   "scripts": {
     "dev": "webpack",
-    "deploy": "webpack --config webpack.production.config.js",
+    "prod": "webpack --config webpack.production.config.js",
     "test": "eslint ./src/**/**.js"
   },
   "repository": {
