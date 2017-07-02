@@ -1,7 +1,7 @@
 {
-  "name": "phaser-webpack",
+  "name": "galaga",
   "version": "0.0.1",
-  "description": "Basic Phaser CE and Webpack boilerplate",
+  "description": "Galaga clone",
   "author": "Simon Martin",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/simonma10/phaser-webpack"
+    "url": "https://github.com/simonma10/galaga"
   },
   "license": "MIT",
   "devDependencies": {

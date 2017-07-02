@@ -1,7 +1,5 @@
-# Phaser Webpack Boilerplate
-This is a basic Webpack 2.x template for use with Phaser and ES6/2015.
-
-It is very much a work in progress!!
+# Galaga
+Galaga clone.  
 
 ## Getting Started
 You need [Node.js and npm](https://nodejs.org/). 
